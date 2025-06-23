@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1733abb8-5ec9-43d9-97f1-f3acc9e2bdb7",
+    "order": 3,
+    "is_active": true,
+    "name": "Fakultas Hukum",
+    "reference_code": "FH",
+    "created_at": "2025-05-04 05:11:49.065435+00",
+    "updated_at": "2025-05-08 02:59:29.91344+00",
+    "deleted_at": null
+  },
+  {
+    "id": "1adc47d8-6ac3-4a46-9516-00873f5aaba8",
+    "order": 5,
+    "is_active": true,
+    "name": "Fakultas Ilmu Pengetahuan Budaya",
+    "reference_code": "FB",
+    "created_at": "2025-05-04 05:11:49.067451+00",
+    "updated_at": "2025-05-26 08:15:52.398245+00",
+    "deleted_at": null
+  },
+  {
+    "id": "1cf95808-ddca-4030-afd6-61f163618d26",
+    "order": 2,
+    "is_active": true,
+    "name": "Fakultas Farmasi",
+    "reference_code": "FF",
+    "created_at": "2025-05-04 05:11:49.064338+00",
+    "updated_at": "2025-05-06 23:25:53.967647+00",
+    "deleted_at": null
+  },
+  {
+    "id": "22a2c85f-d265-4cf4-a45e-643bb213aae4",
+    "order": 18,
+    "is_active": true,
+    "name": "Sekolah Kajian Stratejik dan Global",
+    "reference_code": "SG",
+    "created_at": "2025-05-04 05:11:49.07985+00",
+    "updated_at": "2025-05-04 05:11:49.07985+00",
+    "deleted_at": null
+  },
+  {
+    "id": "2ff7dea7-9702-41ff-bf1a-cdc63caf6225",
+    "order": 9,
+    "is_active": true,
+    "name": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "reference_code": "SP",
+    "created_at": "2025-05-04 05:11:49.071358+00",
+    "updated_at": "2025-05-04 05:11:49.071358+00",
+    "deleted_at": null
+  },
+  {
+    "id": "34f8f73a-3ab8-4e75-94d5-7a5626a9665b",
+    "order": 1,
+    "is_active": true,
+    "name": "Fakultas Ilmu Budaya",
+    "reference_code": "IB",
+    "created_at": "2025-05-28 09:26:32.372438+00",
+    "updated_at": "2025-05-28 09:26:32.372438+00",
+    "deleted_at": null
+  },
+  {
+    "id": "5b7b6cea-8adf-4413-adbb-d60dca5ec4c3",
+    "order": 17,
+    "is_active": true,
+    "name": "Sekolah Ilmu Lingkungan",
+    "reference_code": "LI",
+    "created_at": "2025-05-04 05:11:49.078838+00",
+    "updated_at": "2025-05-04 05:11:49.078838+00",
+    "deleted_at": null
+  },
+  {
+    "id": "61b6b07f-f276-494c-9c43-10dc94a2cc75",
+    "order": 7,
+    "is_active": true,
+    "name": "Fakultas Ilmu Keperawatan",
+    "reference_code": "IK",
+    "created_at": "2025-05-04 05:11:49.069482+00",
+    "updated_at": "2025-05-04 05:11:49.069482+00",
+    "deleted_at": null
+  },
+  {
+    "id": "646b7311-5f3f-4308-a146-75d456e9b914",
+    "order": 4,
+    "is_active": true,
+    "name": "Fakultas Ilmu Administrasi",
+    "reference_code": "IA",
+    "created_at": "2025-05-04 05:11:49.066473+00",
+    "updated_at": "2025-05-04 05:11:49.066473+00",
+    "deleted_at": null
+  },
+  {
+    "id": "72410aa0-01d9-4e57-af2e-6250192aea69",
+    "order": 15,
+    "is_active": true,
+    "name": "Fakultas Teknik",
+    "reference_code": "TE",
+    "created_at": "2025-05-04 05:11:49.076957+00",
+    "updated_at": "2025-05-04 05:11:49.076957+00",
+    "deleted_at": null
+  },
+  {
+    "id": "81472781-35dd-47f4-8825-343f9f2c4519",
+    "order": 13,
+    "is_active": true,
+    "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "reference_code": "MA",
+    "created_at": "2025-05-04 05:11:49.075015+00",
+    "updated_at": "2025-05-04 05:11:49.075015+00",
+    "deleted_at": null
+  },
+  {
+    "id": "81c9bed8-b451-4178-9988-b37503a3f15a",
+    "order": 1,
+    "is_active": true,
+    "name": "Universitas",
+    "reference_code": "UN",
+    "created_at": "2025-05-04 05:11:49.062797+00",
+    "updated_at": "2025-05-04 05:11:49.062797+00",
+    "deleted_at": null
+  },
+  {
+    "id": "9b78a490-239e-4a99-81cf-bcae70d27c72",
+    "order": 12,
+    "is_active": true,
+    "name": "Fakultas Kesehatan Masyarakat",
+    "reference_code": "KM",
+    "created_at": "2025-05-04 05:11:49.074079+00",
+    "updated_at": "2025-05-04 05:11:49.074079+00",
+    "deleted_at": null
+  },
+  {
+    "id": "9cae41af-9d46-4d86-86e2-55554d9a8b6f",
+    "order": 14,
+    "is_active": true,
+    "name": "Fakultas Psikologi",
+    "reference_code": "PS",
+    "created_at": "2025-05-04 05:11:49.076002+00",
+    "updated_at": "2025-05-08 09:10:40.406698+00",
+    "deleted_at": null
+  },
+  {
+    "id": "a7f315a7-fa94-4e24-9f7e-d95538dd236a",
+    "order": 16,
+    "is_active": true,
+    "name": "Program Pendidikan Vokasi",
+    "reference_code": "VI",
+    "created_at": "2025-05-04 05:11:49.077895+00",
+    "updated_at": "2025-05-08 11:53:49.563915+00",
+    "deleted_at": null
+  },
+  {
+    "id": "bf21882b-59f2-4e4a-bbfa-37e269acd00f",
+    "order": 8,
+    "is_active": true,
+    "name": "Fakultas Ilmu Komputer",
+    "reference_code": "FP",
+    "created_at": "2025-05-04 05:11:49.0704+00",
+    "updated_at": "2025-05-08 03:00:48.424855+00",
+    "deleted_at": null
+  },
+  {
+    "id": "d3cbd28a-d89d-4e5f-a525-3e8b15d5a7fa",
+    "order": 39,
+    "is_active": true,
+    "name": "UKM UI",
+    "reference_code": "UK",
+    "created_at": "2025-05-22 07:12:19.415946+00",
+    "updated_at": "2025-05-22 07:12:19.415946+00",
+    "deleted_at": null
+  },
+  {
+    "id": "dd4f5b52-9ebc-412f-94d7-129062a5ef9e",
+    "order": 10,
+    "is_active": true,
+    "name": "Fakultas Kedokteran",
+    "reference_code": "FK",
+    "created_at": "2025-05-04 05:11:49.072264+00",
+    "updated_at": "2025-05-08 03:01:08.113332+00",
+    "deleted_at": null
+  },
+  {
+    "id": "eb85447c-549f-4bb6-9ae9-a13831cc8564",
+    "order": 6,
+    "is_active": true,
+    "name": "Fakultas Ekonomi dan Bisnis",
+    "reference_code": "EB",
+    "created_at": "2025-05-04 05:11:49.068478+00",
+    "updated_at": "2025-05-04 05:11:49.068478+00",
+    "deleted_at": null
+  },
+  {
+    "id": "fd75c2f1-4eeb-4e79-8d3a-b8b62904fe97",
+    "order": 11,
+    "is_active": true,
+    "name": "Fakultas Kedokteran Gigi",
+    "reference_code": "KG",
+    "created_at": "2025-05-04 05:11:49.07318+00",
+    "updated_at": "2025-05-04 05:11:49.07318+00",
+    "deleted_at": null
+  }
+]

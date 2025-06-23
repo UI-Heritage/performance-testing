@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0238deda-7109-45a7-822b-c934099310a5",
+    "order": 4,
+    "is_active": true,
+    "name": "Tokoh Bersejarah",
+    "created_at": "2025-05-06 23:00:49.508535+00",
+    "updated_at": "2025-05-06 23:16:56.64299+00",
+    "deleted_at": null
+  },
+  {
+    "id": "7c899887-d2bd-4b87-b28d-99e230476a0a",
+    "order": 0,
+    "is_active": true,
+    "name": "Pembangunan",
+    "created_at": "2025-05-04 05:11:49.056582+00",
+    "updated_at": "2025-05-04 05:11:49.056582+00",
+    "deleted_at": "2025-05-06 22:59:14.887814+00"
+  },
+  {
+    "id": "aece93e7-a1af-4bc8-aaa0-88c1b4617cd0",
+    "order": 2,
+    "is_active": true,
+    "name": "Prestasi",
+    "created_at": "2025-05-04 05:11:49.058727+00",
+    "updated_at": "2025-05-04 05:11:49.058727+00",
+    "deleted_at": null
+  },
+  {
+    "id": "c94bc19a-18a4-43f3-8764-1fa434f29fc2",
+    "order": 5,
+    "is_active": true,
+    "name": "Konferensi",
+    "created_at": "2025-05-06 23:00:55.21128+00",
+    "updated_at": "2025-05-06 23:00:55.21128+00",
+    "deleted_at": null
+  },
+  {
+    "id": "e18c0119-fa4a-40e6-8d0e-5f513abb23ba",
+    "order": 6,
+    "is_active": true,
+    "name": "Internasional",
+    "created_at": "2025-05-09 03:00:28.574135+00",
+    "updated_at": "2025-05-09 03:00:28.574135+00",
+    "deleted_at": null
+  },
+  {
+    "id": "e7d4544d-5312-40a1-a216-2461ca469bd0",
+    "order": 3,
+    "is_active": true,
+    "name": "Peraturan",
+    "created_at": "2025-05-04 05:11:49.059934+00",
+    "updated_at": "2025-05-04 05:11:49.059934+00",
+    "deleted_at": null
+  },
+  {
+    "id": "e94e72bb-13c1-498a-97d5-a045322e51eb",
+    "order": 7,
+    "is_active": true,
+    "name": "Sejarah Universitas",
+    "created_at": "2025-05-20 08:31:36.129403+00",
+    "updated_at": "2025-05-20 08:31:36.129403+00",
+    "deleted_at": null
+  }
+]
